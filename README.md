@@ -1,0 +1,2 @@
+API Gatewayのログを解析するスクリプト。
+pathごとにResponseLatencyの統計をCSVで出力する。
